@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+*pyc
+day.txt
+list.txt
+TPEclsd_*.png
+
